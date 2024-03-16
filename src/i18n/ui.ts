@@ -6,7 +6,6 @@ export const languages = {
   export const defaultLang = 'en';
 
   export const ui = {
-    es: {},
     en: {
       'layout.title' : `JSalaat's Portfolio - Software Engineer III @ Rewaa | JS Mentor @ Udacity | x Lead @ Alibaba | x Developer @ 10Pearls | Fullstack | React - Angular - Nodejs - AWS`,
       'layout.description': 'A Programming and Sports Enthusiast. Loves to learn, help and code things. Over six years of experience in designing, developing, deploying, and managing web and mobile applications using cutting-edge technologies and best practices.',
